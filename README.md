@@ -1,6 +1,5 @@
-**/* <!DOCTYPE html>  */  
-html:before {  
-    content: none;  
+<!DOCTYPE html> {  
+    display: none;  
 }  
 <html>  
 <head>  
