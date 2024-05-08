@@ -1,5 +1,4 @@
-<!DOCTYPE html> 
-**/* Hide the doctype text */  
+**/* <!DOCTYPE html>  */  
 html:before {  
     content: none;  
 }  
