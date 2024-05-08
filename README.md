@@ -1,7 +1,7 @@
 <!DOCTYPE html>  
 <html>  
 <head>  
-  <title>Interactive Website</title>  
+  <title>Project Ruin</title>  
 </head>  
 <body>  
   <div id="menu">  
