@@ -1,10 +1,26 @@
 <!DOCTYPE html>  
 <html>  
 <head>  
-  <title>Chat Room</title>  
+  <title>Interactive Website</title>  
 </head>  
 <body>  
-  <h1>Welcome to the Chat Room</h1>  
-  <!-- Add your chat room content here -->  
+  <div id="menu">  
+    <button onclick="window.location.href='#game-section'">Games</button>  
+    <button onclick="window.location.href='#chat-room'">Chat Room</button>  
+    <button onclick="window.location.href='#link-room'">Link Room</button>  
+  </div>  
+    
+  <!-- Sections -->  
+  <div id="game-section">  
+    <!-- Game content goes here -->  
+  </div>  
+    
+  <div id="chat-room">  
+    <!-- Chat room content goes here -->  
+  </div>  
+    
+  <div id="link-room">  
+    <!-- Link room content goes here -->  
+  </div>  
 </body>  
 </html>  
