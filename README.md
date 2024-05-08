@@ -1,4 +1,8 @@
 <!DOCTYPE html> 
+**/* Hide the doctype text */  
+html:before {  
+    content: none;  
+}  
 <html>  
 <head>  
   <title>Project Ruin</title>  
