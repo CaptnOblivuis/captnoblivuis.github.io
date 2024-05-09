@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>  
+  <title>RUIN</title>
 <head>  
 </head>  
 <body>  
