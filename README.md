@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>  
+  <title>Project Ruin</title>
 <head>  
   <title>Project Ruin</title>  
 </head>  
