@@ -61,7 +61,7 @@
   </div>  
   
   <div id="chat-room" class="hidden">  
-    <!-- Chat room content will be shown here after clicking the Chat Room button -->  
+   <script id="cid0020000376351096633" data-cfasync="false" async src="//st.chatango.com/js/gz/emb.js" style="width: 250px;height: 350px;">{"handle":"message-menu","arch":"js","styles":{"a":"CC0000","b":100,"c":"FFFFFF","d":"FFFFFF","k":"CC0000","l":"CC0000","m":"CC0000","n":"FFFFFF","p":"10","q":"CC0000","r":100,"fwtickm":1}}</script>
     <p>Chat room content...</p>  
   </div>  
   
